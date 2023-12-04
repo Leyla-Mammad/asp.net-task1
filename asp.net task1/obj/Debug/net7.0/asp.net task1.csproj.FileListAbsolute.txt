@@ -1,0 +1,27 @@
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.AssemblyInfoInputs.cache
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.AssemblyInfo.cs
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.csproj.CoreCompileInputs.cache
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.MvcApplicationPartsAssemblyInfo.cache
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\bin\Debug\net7.0\appsettings.Development.json
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\bin\Debug\net7.0\appsettings.json
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\bin\Debug\net7.0\asp.net task1.exe
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\bin\Debug\net7.0\asp.net task1.deps.json
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\bin\Debug\net7.0\asp.net task1.runtimeconfig.json
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\bin\Debug\net7.0\asp.net task1.dll
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\bin\Debug\net7.0\asp.net task1.pdb
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\staticwebassets\msbuild.asp.net task1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\staticwebassets\msbuild.build.asp.net task1.props
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.asp.net task1.props
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.asp.net task1.props
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\staticwebassets.build.json
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\staticwebassets.development.json
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\scopedcss\bundle\asp.net task1.styles.css
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.dll
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\refint\asp.net task1.dll
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.pdb
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.genruntimeconfig.cache
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\ref\asp.net task1.dll
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.RazorAssemblyInfo.cache
+C:\WORKSPACE - C#\asp.net task1\asp.net task1\obj\Debug\net7.0\asp.net task1.RazorAssemblyInfo.cs
